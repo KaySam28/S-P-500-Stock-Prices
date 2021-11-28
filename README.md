@@ -6,6 +6,8 @@
 1. [About](#about)
 2. [Objective](#objective)
 3. [Acknowledgements](#acknowledgements)
+4. [Visualisation](#Visualisation)
+
 
 
 ## About <a name="about"></a>
@@ -36,3 +38,7 @@ If I could go back in time and invest in one stock from 1/2/2014 - 12/29/2017, w
 
 My thanks go to Maven Analytics for sharing the data. The corresponding link to the data can be found below:
 https://www.mavenanalytics.io/data-playground?page=3
+
+
+## Visualisation <a name="Visualisation"></a>
+Below is the visualisation for S&P Stock Prices
